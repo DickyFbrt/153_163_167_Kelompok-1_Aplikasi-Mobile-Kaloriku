@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576900888959",
+    "project_id": "kaloriku-532de",
+    "storage_bucket": "kaloriku-532de.firebasestorage.app",
+    "firebase_url": "https://kaloriku-532de-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576900888959:android:d30ee5c7f5dbcf62cb824a",
+        "android_client_info": {
+          "package_name": "kaloriku.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576900888959-l81tkh94iuv6krnt3ba6g0i0idakrldn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kaloriku.com",
+            "certificate_hash": "58ee42d4bfbd702c4515167a103450a4f66561f8"
+          }
+        },
+        {
+          "client_id": "576900888959-cc58puv6fhdrjgb7etdompj1r66qs59o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_DM7ErMuPdZPkbnuZk1yrMHcHiZX2Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576900888959-cc58puv6fhdrjgb7etdompj1r66qs59o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
